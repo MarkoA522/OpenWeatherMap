@@ -34,3 +34,5 @@ build/
 /comparemedium.json
 /compareregular.json
 /hourly_16.json
+/src/main/resources/templates/map.html
+/src/main/resources/application.properties
